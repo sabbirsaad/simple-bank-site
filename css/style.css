@@ -1,0 +1,28 @@
+body{
+    padding: 100px;
+}
+.login-form{
+    margin-top: 50px;
+    padding: 50px;
+}
+#transection-area{
+    display: none;
+}
+.status{
+    margin: 20px;
+    padding: 15px;
+    color: white;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.transection{
+    margin-top: 50px;
+    padding: 15px;
+}
