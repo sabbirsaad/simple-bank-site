@@ -1,4 +1,4 @@
 Site link
-https://sabbirsaad.github.io/simple-bank-site/index.html
+https://sabbirsaad.github.io/simple-bank-site/
 
 
